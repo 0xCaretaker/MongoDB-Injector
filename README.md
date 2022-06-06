@@ -1,4 +1,4 @@
-# MongoDB-Injection
+# MongoDB-Injector
 ### Cheesy Multi-threaded script for NoSQL Injection
 This challenge-script is custom-made for web-server running **MongoDB** which is vulnerable to **No-SQL injection**. 
 
